@@ -1,0 +1,19 @@
+.brand {
+    background-color: #f3f4f7;
+    font-family: Alkatra;
+    /* font-family: Quattrocento; */
+    color: #00205b;
+    font-size: 80px;
+}
+
+.form-container {
+    width: 350px;
+}
+
+.login-form {
+    height: 350px;
+}
+
+/* .post-item {
+    
+} */
